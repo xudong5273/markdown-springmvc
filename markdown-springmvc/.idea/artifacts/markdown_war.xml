@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="markdown:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="markdown.war">
+      <element id="artifact" artifact-name="markdown:war exploded" />
+    </root>
+  </artifact>
+</component>
